@@ -1,0 +1,14 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+ 
+header {
+    color: yellow;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
+
+}
+
+.green{
+    background-color: green; 
+    color: white;
+}
